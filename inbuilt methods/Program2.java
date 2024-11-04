@@ -3,7 +3,7 @@ class Program2
 {
 	public static void main(String[] args)
 	{
-		int num =(int)(Math.random()*10);
-		System.out.println(num);
+		int x =(int)(Math.random()*10);
+		System.out.println(x);
 	}
 }
